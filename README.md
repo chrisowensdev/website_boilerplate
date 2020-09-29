@@ -2,7 +2,7 @@
 
 Website boiler plate used to clone for Digital Crafts.
 
-<!-- ## Decription
+## Decription
 A little more description of what the project is about
 
 ## Motivation
@@ -61,4 +61,4 @@ Give proper credits. This could be a link to any repo which inspired you to buil
 ## License
 A short snippet describing the license (MIT, Apache etc)
 
-MIT © [Yourname]() -->
+MIT © [Yourname]()
